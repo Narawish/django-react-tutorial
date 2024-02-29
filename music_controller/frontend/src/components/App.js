@@ -1,9 +1,6 @@
 import React, { Component } from "react";
 import { render } from "react-dom";
 import HomePage from "./Homepage";
-import RoomJoinPage from "./RoomJoinPage";
-import CreateRoomPage from "./CreateRoomPage";
-import { Room } from "@material-ui/icons";
 
 export default class App extends Component {
     constructor(props) {
